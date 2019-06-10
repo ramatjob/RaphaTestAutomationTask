@@ -6,10 +6,6 @@ Please install chrome browser in your machine
 
 Please install Java 8 SDK in your machine and set the class path
 
-Please add cucumber for java plugin to your IDE (Intellij/Eclipse etc)
-
-Please add testNG plugin to your IDE (Intellij/Eclipse etc)
-
 ### How to compile this project ###
 
 Open command prompt, Download the project into your local machine using the below command
@@ -53,5 +49,5 @@ So open the `overview-features.html` in any browser, it will show you the full t
 
    ```
    Epic Desciption: In rapha portal, Test the payment method functionality, by accessing the portal as a Guest and add an item to basket and proceed through checkout
-   Feature file: Tested this epic in @TestCase2 in the NewCarSearch.feature file
+   Feature file: Tested this epic in @TestCase2 in the RaphaTest.feature file
    ```
